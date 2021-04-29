@@ -21,9 +21,9 @@ body{
 }
 
 /*portada*/
-header{
+.header{
     height: 100vh;
-    background-image: url(../AlexCG/imagenes/portada.jpg);
+    background-image: url(imagenes/portada.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
